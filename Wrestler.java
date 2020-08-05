@@ -1,0 +1,1 @@
+this class contains the names of the wrestlers 

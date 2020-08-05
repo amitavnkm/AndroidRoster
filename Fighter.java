@@ -1,0 +1,1 @@
+this is a fighter class
